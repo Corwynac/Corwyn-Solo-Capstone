@@ -1,4 +1,3 @@
-import { skipPartiallyEmittedExpressions } from "typescript";
 import { CorP } from "./corwynPage";
 
 const cor = new CorP()
